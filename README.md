@@ -4,7 +4,7 @@ A Food Ordering appliction UI built using Flutter/Dart
 
 ## Screenshots
 
-<div style=display="inline-block";alig"center";>
+<div style=display="inline-block";align"center";>
        
        <img src="https://github.com/nav0713/images/blob/master/food-order1.png" width="200" height="400" title="hover text">
        <img src="https://github.com/nav0713/images/blob/master/food-order2.png" width="200" height="400" title="hover text">
