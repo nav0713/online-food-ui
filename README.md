@@ -8,11 +8,13 @@ A Food Ordering appliction UI built using Flutter/Dart
        <img src="https://github.com/nav0713/images/blob/master/food-order1.png" width="200" height="400" title="hover text">
        <img src="https://github.com/nav0713/images/blob/master/food-order2.png" width="200" height="400" title="hover text">
 
-   
-    
+  
 
 
   </div>
+  
+  ## Application Demo
+     <img src="https://giphy.com/gifs/DcEGX4t0K9ZNZN3KoOf" title="hover text">
 
 A few resources to get you started if this is your first Flutter project:
 
