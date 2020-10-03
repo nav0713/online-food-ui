@@ -1,6 +1,6 @@
 # food_order_ui
 
-A Food Ordering appliction UI built using Flutter/Dart
+A Food Ordering application UI built using Flutter/Dart
 
 # Screenshots
 
