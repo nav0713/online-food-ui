@@ -8,7 +8,7 @@ A Food Ordering application UI built using Flutter/Dart
        <img src="https://github.com/nav0713/images/blob/master/food-order1.png" width="200" height="400" title="hover text">
        <img src="https://github.com/nav0713/images/blob/master/food-order2.png" width="200" height="400" title="hover text">
        <h3>         Application Demo</h3>
- <img src="https://media.giphy.com/media/eycgUxkBwRbBRAjmO6/giphy.gif" title="hover text">
+ <img src="https://media.giphy.com/media/eycgUxkBwRbBRAjmO6/giphy.gif" width="400" height="800" title="hover text">
 
   </div>
  
